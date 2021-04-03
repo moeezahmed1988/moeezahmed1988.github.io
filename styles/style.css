@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(14, 14, 13);
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
+.abc1{
+    color: lightslategray;
+    font-style: italic;
+
+}
+
+.img1{
+    border-radius: 40%
+}
